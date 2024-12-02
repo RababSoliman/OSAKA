@@ -1,0 +1,26 @@
+@import url('https://fonts.google.com/specimen/Montserrat+Alternates');
+header{
+    height:100vh ;
+    /* vh -> 1vh=19.5px , rem -> 1rem=16px*/
+
+    background-image: url(../IMG/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+
+.icon i{
+    margin: 5px;
+}
+#about{
+    background-image: url(../IMG/light_dot.jpg);
+    background-size:cover ;
+    background-position: center;
+}
+#react{
+    background-color:#131722;
+    font-family:'Montserrat Alternates', sans-serif;
+    color: #fff;
+}
